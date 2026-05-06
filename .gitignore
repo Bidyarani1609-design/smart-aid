@@ -5,3 +5,4 @@ __pycache__/
 *.pyc
 dist/
 build/
+ai_model/smart_aid_model.h5
